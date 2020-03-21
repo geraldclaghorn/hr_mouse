@@ -15,5 +15,6 @@ Code of the Garland Lab, specifically pertaining to the High-Runner lines of mic
  - Open the readme, add your name to this list of collaborators above and save the file
  - Add the readme to your list of tracked files `git add README.md`
  - Commit to your branch: `git commit`
+ - Type a message about your commit, then hit `esc` and type `:wq` and hit enter 
  - Push your branch `git push origin branch_name`
 
